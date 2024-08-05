@@ -1,0 +1,15 @@
+{
+  "name": "evaluacion_s6_miguel_andrades",
+  "version": "1.0.0",
+  "description": "lista de tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MikeChile"
+  },
+  "author": "Miguel Andrades",
+  "license": "ISC"
+}
